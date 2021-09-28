@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "ejs": "^3.0.1",
     "express": "^4.17.1",
     "mongoose": "^5.9.1",
     "shortid": "^2.2.15"
