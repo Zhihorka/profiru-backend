@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const ShortUrl = require("./models/shortUrl");
 const cors = require("cors");
 const app = express();
+
 app.use(cors());
 app.use(express.json());
 
